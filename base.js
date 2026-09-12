@@ -11,6 +11,7 @@ class BasePage {
       async browserClose(){
         await this.driver.quit();
     }
+    
 }
 
 const pages = new BasePage();
