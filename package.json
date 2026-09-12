@@ -1,0 +1,15 @@
+{
+  "name": "sqa18",
+  "version": "1.0.0",
+  "description": "it is testing for automation projects",
+  "license": "ISC",
+  "author": "fuad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.49.0"
+  }
+}
